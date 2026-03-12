@@ -12,30 +12,6 @@
 
 .main-container {
     display: flex;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-}
-
-/*colori testo tabella*/
-span.c-green {
-    background-color: green;
-    color: white;
-    padding: 5px;
-    border-radius: 30px;
-}
-
-span.c-yellow {
-    background-color: rgb(255, 225, 0);
-    color: white;
-    padding: 5px;
-    border-radius: 30px;
-}
-
-span.c-red {
-    background-color: red;
-    color: white;
-    padding: 5px;
-    border-radius: 30px;
 }
